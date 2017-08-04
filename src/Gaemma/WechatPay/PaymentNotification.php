@@ -1,6 +1,6 @@
 <?php
 
-namespace Overnil\WechatPay;
+namespace Gaemma\WechatPay;
 
 
 class PaymentNotification

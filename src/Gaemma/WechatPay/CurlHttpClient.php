@@ -1,9 +1,9 @@
 <?php
 
-namespace Overnil\WechatPay;
+namespace Gaemma\WechatPay;
 
 
-use Overnil\WechatPay\Exception\HttpException;
+use Gaemma\WechatPay\Exception\HttpException;
 
 class CurlHttpClient implements HttpClientInterface
 {

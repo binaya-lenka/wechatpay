@@ -1,6 +1,6 @@
 <?php
 
-namespace Overnil\WechatPay\Exception;
+namespace Gaemma\WechatPay\Exception;
 
 
 class WechatPayException extends \Exception

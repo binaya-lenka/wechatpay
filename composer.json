@@ -1,12 +1,12 @@
 {
-    "name": "overnil/wechatpay",
+    "name": "gaemma/wechatpay",
     "description": "Wechat payment library.",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "overnil",
-            "email": "me@overnil.com"
+            "name": "gaemma",
+            "email": "me@gaemma.com"
         }
     ],
     "require": {
@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Overnil\\WechatPay\\": "src/Overnil/WechatPay"
+            "Gaemma\\WechatPay\\": "src/Gaemma/WechatPay"
         }
     }
 }

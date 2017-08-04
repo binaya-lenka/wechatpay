@@ -1,9 +1,9 @@
 <?php
 
-namespace Overnil\WechatPay;
+namespace Gaemma\WechatPay;
 
 
-use Overnil\WechatPay\Exception\WechatPayException;
+use Gaemma\WechatPay\Exception\WechatPayException;
 
 class UnifiedOrderRequest
 {
